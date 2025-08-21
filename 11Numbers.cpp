@@ -3,7 +3,7 @@
 #include <random>
 #include <string>
 #include <vector>
-#include <algorithm> // <-- necesario para std::sort
+#include <algorithm>
 
 using namespace std;
 
